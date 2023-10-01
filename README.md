@@ -13,6 +13,7 @@
 ✧ Retrofit <br/>
 ✧ SearchView
  
-![Bitirme.Projesi.Ekran.Kaydi.mp4](https://github.com/byesude/SistersLab_Kotlin_Ile_Android_Programlama_Akademisi_Bitirme_Projesi/assets/137602264/a9d8a0ea-2b91-4ba8-9092-66924af2f928)
+![Bitirme Projesi Ekran Kaydı](https://github.com/byesude/SistersLab_Kotlin_Ile_Android_Programlama_Akademisi_Bitirme_Projesi/assets/137602264/a9d8a0ea-2b91-4ba8-9092-66924af2f928)
+
 
  
