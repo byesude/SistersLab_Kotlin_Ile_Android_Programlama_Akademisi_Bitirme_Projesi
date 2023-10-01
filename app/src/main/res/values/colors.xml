@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="splashScreenBackground">#FFC5BB</color>
+    <color name="splashScreenText">#cc7722</color>
+    <color name="background">#f9e2c8</color>
+    <color name="item_background">#FDBD74</color>
+    <color name="yazi">#221200</color>
+</resources>
